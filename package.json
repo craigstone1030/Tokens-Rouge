@@ -1,0 +1,27 @@
+{
+  "name": "RougeTokens",
+  "version": "0.3.2",
+  "description": "The Rouge Project token (RGE) and TGE contracts",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRougeProject/RougeTokens.git"
+  },
+  "keywords": [
+    "ethereum",
+    "coupon",
+    "voucher",
+    "ticket"
+  ],
+  "authors": [
+      "Simon de la Rouviere <simon.delarouviere@consensys.net>",
+      "Joseph Chow <joseph.chow@consensys.net>",
+      "Christophe Le Bars <clbg@rouge.network>",
+      "ValentinD. Guillois <vdg@rouge.network>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRougeProject/RougeTokens/issues"
+  },
+  "homepage": "https://github.com/TheRougeProject/RougeTokens",
+}
